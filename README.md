@@ -3,9 +3,9 @@
 This is built using Python
 
 Dependencies:
-1) SpeechRecognition
+1) SpeechRecognition :: 
    To install : pip install SpeechRecognition
-2) pyaudio
+2) pyaudio :: 
    To install : pip install pyaudio
    
 Browser:
