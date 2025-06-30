@@ -19,5 +19,3 @@ with sr.Microphone() as source:
         webbrowser.open(search_url)
     except:
         print("Can't recognize")
-
-        xxx
